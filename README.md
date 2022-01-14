@@ -1,4 +1,4 @@
-# Hi, Satyam here 👋
+<h1 align="center">Hi, Satyam here 👋</h1>
 
 <!--
 **Satyam-2001/Satyam-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
