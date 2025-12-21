@@ -20,4 +20,4 @@ Full‑stack developer focused on **MERN**, **NestJS**, **Next.js**, **Flutter**
 
 ## 📌 Current Work
 
-Working on [BetaVersion.io](https://betaversion.io).
+Working on [BetaVersion.IO](https://betaversion.io).
